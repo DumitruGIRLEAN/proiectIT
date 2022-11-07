@@ -21,7 +21,7 @@ import Porsche from "../../Assets/ImageLogo/Porsche.png";
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faReact } from "@fortawesome/free-brands-svg-icons";
-import { faEnvelope } from "@fortawesome/free-solid-svg-icons"
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 function NavBarSite() {
   return (
